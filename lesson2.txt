@@ -1,0 +1,1 @@
+it starts what is needed to version control, it works as the skeleton to the whole version control in that folder
